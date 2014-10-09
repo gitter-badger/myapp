@@ -8,6 +8,7 @@ a client.
 
 Project Directory
 ============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/phohtoo/myapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The default project directory includes the following files and folders:
 
